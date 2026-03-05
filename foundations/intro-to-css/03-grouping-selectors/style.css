@@ -1,1 +1,12 @@
-/* Add CSS Styling */
+.plain,
+.colorful {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.plain {
+    color: #ffffff;
+    background-color: #000000;
+}
+.colorful {
+    background-color: #ffff00;
+}
